@@ -1,0 +1,4854 @@
+[
+ {
+  "key": "af-ZA-AdriNeural",
+  "gender": "F",
+  "locale": "af_ZA",
+  "locale_name": "Afrikaans (South Africa)",
+  "name": "Adri",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "af-ZA-WillemNeural",
+  "gender": "M",
+  "locale": "af_ZA",
+  "locale_name": "Afrikaans (South Africa)",
+  "name": "Willem",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "am-ET-MekdesNeural",
+  "gender": "F",
+  "locale": "am_ET",
+  "locale_name": "Amharic (Ethiopia)",
+  "name": "Mekdes",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "am-ET-AmehaNeural",
+  "gender": "M",
+  "locale": "am_ET",
+  "locale_name": "Amharic (Ethiopia)",
+  "name": "Ameha",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ar-AE-FatimaNeural",
+  "gender": "F",
+  "locale": "ar_AE",
+  "locale_name": "Arabic (United Arab Emirates)",
+  "name": "Fatima",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ar-AE-HamdanNeural",
+  "gender": "M",
+  "locale": "ar_AE",
+  "locale_name": "Arabic (United Arab Emirates)",
+  "name": "Hamdan",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ar-BH-LailaNeural",
+  "gender": "F",
+  "locale": "ar_BH",
+  "locale_name": "Arabic (Bahrain)",
+  "name": "Laila",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ar-BH-AliNeural",
+  "gender": "M",
+  "locale": "ar_BH",
+  "locale_name": "Arabic (Bahrain)",
+  "name": "Ali",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ar-DZ-AminaNeural",
+  "gender": "F",
+  "locale": "ar_DZ",
+  "locale_name": "Arabic (Algeria)",
+  "name": "Amina",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ar-DZ-IsmaelNeural",
+  "gender": "M",
+  "locale": "ar_DZ",
+  "locale_name": "Arabic (Algeria)",
+  "name": "Ismael",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ar-EG-SalmaNeural",
+  "gender": "F",
+  "locale": "ar_EG",
+  "locale_name": "Arabic (Egypt)",
+  "name": "Salma",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ar-EG-ShakirNeural",
+  "gender": "M",
+  "locale": "ar_EG",
+  "locale_name": "Arabic (Egypt)",
+  "name": "Shakir",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ar-IQ-RanaNeural",
+  "gender": "F",
+  "locale": "ar_IQ",
+  "locale_name": "Arabic (Iraq)",
+  "name": "Rana",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ar-IQ-BasselNeural",
+  "gender": "M",
+  "locale": "ar_IQ",
+  "locale_name": "Arabic (Iraq)",
+  "name": "Bassel",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ar-JO-SanaNeural",
+  "gender": "F",
+  "locale": "ar_JO",
+  "locale_name": "Arabic (Jordan)",
+  "name": "Sana",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ar-JO-TaimNeural",
+  "gender": "M",
+  "locale": "ar_JO",
+  "locale_name": "Arabic (Jordan)",
+  "name": "Taim",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ar-KW-NouraNeural",
+  "gender": "F",
+  "locale": "ar_KW",
+  "locale_name": "Arabic (Kuwait)",
+  "name": "Noura",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ar-KW-FahedNeural",
+  "gender": "M",
+  "locale": "ar_KW",
+  "locale_name": "Arabic (Kuwait)",
+  "name": "Fahed",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ar-LB-LaylaNeural",
+  "gender": "F",
+  "locale": "ar_LB",
+  "locale_name": "Arabic (Lebanon)",
+  "name": "Layla",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ar-LB-RamiNeural",
+  "gender": "M",
+  "locale": "ar_LB",
+  "locale_name": "Arabic (Lebanon)",
+  "name": "Rami",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ar-LY-ImanNeural",
+  "gender": "F",
+  "locale": "ar_LY",
+  "locale_name": "Arabic (Libya)",
+  "name": "Iman",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ar-LY-OmarNeural",
+  "gender": "M",
+  "locale": "ar_LY",
+  "locale_name": "Arabic (Libya)",
+  "name": "Omar",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ar-MA-MounaNeural",
+  "gender": "F",
+  "locale": "ar_MA",
+  "locale_name": "Arabic (Morocco)",
+  "name": "Mouna",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ar-MA-JamalNeural",
+  "gender": "M",
+  "locale": "ar_MA",
+  "locale_name": "Arabic (Morocco)",
+  "name": "Jamal",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ar-OM-AyshaNeural",
+  "gender": "F",
+  "locale": "ar_OM",
+  "locale_name": "Arabic (Oman)",
+  "name": "Aysha",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ar-OM-AbdullahNeural",
+  "gender": "M",
+  "locale": "ar_OM",
+  "locale_name": "Arabic (Oman)",
+  "name": "Abdullah",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ar-QA-AmalNeural",
+  "gender": "F",
+  "locale": "ar_QA",
+  "locale_name": "Arabic (Qatar)",
+  "name": "Amal",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ar-QA-MoazNeural",
+  "gender": "M",
+  "locale": "ar_QA",
+  "locale_name": "Arabic (Qatar)",
+  "name": "Moaz",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ar-SA-ZariyahNeural",
+  "gender": "F",
+  "locale": "ar_SA",
+  "locale_name": "Arabic (Saudi Arabia)",
+  "name": "Zariyah",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ar-SA-HamedNeural",
+  "gender": "M",
+  "locale": "ar_SA",
+  "locale_name": "Arabic (Saudi Arabia)",
+  "name": "Hamed",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ar-SY-AmanyNeural",
+  "gender": "F",
+  "locale": "ar_SY",
+  "locale_name": "Arabic (Syria)",
+  "name": "Amany",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ar-SY-LaithNeural",
+  "gender": "M",
+  "locale": "ar_SY",
+  "locale_name": "Arabic (Syria)",
+  "name": "Laith",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ar-TN-ReemNeural",
+  "gender": "F",
+  "locale": "ar_TN",
+  "locale_name": "Arabic (Tunisia)",
+  "name": "Reem",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ar-TN-HediNeural",
+  "gender": "M",
+  "locale": "ar_TN",
+  "locale_name": "Arabic (Tunisia)",
+  "name": "Hedi",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ar-YE-MaryamNeural",
+  "gender": "F",
+  "locale": "ar_YE",
+  "locale_name": "Arabic (Yemen)",
+  "name": "Maryam",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ar-YE-SalehNeural",
+  "gender": "M",
+  "locale": "ar_YE",
+  "locale_name": "Arabic (Yemen)",
+  "name": "Saleh",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "az-AZ-BanuNeural",
+  "gender": "F",
+  "locale": "az_AZ",
+  "locale_name": "Azerbaijani (Latin, Azerbaijan)",
+  "name": "Banu",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "az-AZ-BabekNeural",
+  "gender": "M",
+  "locale": "az_AZ",
+  "locale_name": "Azerbaijani (Latin, Azerbaijan)",
+  "name": "Babek",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "bg-BG-KalinaNeural",
+  "gender": "F",
+  "locale": "bg_BG",
+  "locale_name": "Bulgarian (Bulgaria)",
+  "name": "Kalina",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "bg-BG-BorislavNeural",
+  "gender": "M",
+  "locale": "bg_BG",
+  "locale_name": "Bulgarian (Bulgaria)",
+  "name": "Borislav",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "bn-BD-NabanitaNeural",
+  "gender": "F",
+  "locale": "bn_BD",
+  "locale_name": "Bangla (Bangladesh)",
+  "name": "Nabanita",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "bn-BD-PradeepNeural",
+  "gender": "M",
+  "locale": "bn_BD",
+  "locale_name": "Bangla (Bangladesh)",
+  "name": "Pradeep",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "bn-IN-TanishaaNeural",
+  "gender": "F",
+  "locale": "bn_IN",
+  "locale_name": "Bengali (India)",
+  "name": "Tanishaa",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "bn-IN-BashkarNeural",
+  "gender": "M",
+  "locale": "bn_IN",
+  "locale_name": "Bengali (India)",
+  "name": "Bashkar",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "bs-BA-VesnaNeural",
+  "gender": "F",
+  "locale": "bs_BA",
+  "locale_name": "Bosnian (Bosnia and Herzegovina)",
+  "name": "Vesna",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "bs-BA-GoranNeural",
+  "gender": "M",
+  "locale": "bs_BA",
+  "locale_name": "Bosnian (Bosnia and Herzegovina)",
+  "name": "Goran",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ca-ES-JoanaNeural",
+  "gender": "F",
+  "locale": "ca_ES",
+  "locale_name": "Catalan",
+  "name": "Joana",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ca-ES-EnricNeural",
+  "gender": "M",
+  "locale": "ca_ES",
+  "locale_name": "Catalan",
+  "name": "Enric",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "cs-CZ-VlastaNeural",
+  "gender": "F",
+  "locale": "cs_CZ",
+  "locale_name": "Czech (Czechia)",
+  "name": "Vlasta",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "cs-CZ-AntoninNeural",
+  "gender": "M",
+  "locale": "cs_CZ",
+  "locale_name": "Czech (Czechia)",
+  "name": "Antonin",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "cy-GB-NiaNeural",
+  "gender": "F",
+  "locale": "cy_GB",
+  "locale_name": "Welsh (United Kingdom)",
+  "name": "Nia",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "cy-GB-AledNeural",
+  "gender": "M",
+  "locale": "cy_GB",
+  "locale_name": "Welsh (United Kingdom)",
+  "name": "Aled",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "da-DK-ChristelNeural",
+  "gender": "F",
+  "locale": "da_DK",
+  "locale_name": "Danish (Denmark)",
+  "name": "Christel",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "da-DK-JeppeNeural",
+  "gender": "M",
+  "locale": "da_DK",
+  "locale_name": "Danish (Denmark)",
+  "name": "Jeppe",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "de-AT-IngridNeural",
+  "gender": "F",
+  "locale": "de_AT",
+  "locale_name": "German (Austria)",
+  "name": "Ingrid",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "de-AT-JonasNeural",
+  "gender": "M",
+  "locale": "de_AT",
+  "locale_name": "German (Austria)",
+  "name": "Jonas",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "de-CH-LeniNeural",
+  "gender": "F",
+  "locale": "de_CH",
+  "locale_name": "German (Switzerland)",
+  "name": "Leni",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "de-CH-JanNeural",
+  "gender": "M",
+  "locale": "de_CH",
+  "locale_name": "German (Switzerland)",
+  "name": "Jan",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "de-DE-AmalaNeural",
+  "gender": "F",
+  "locale": "de_DE",
+  "locale_name": "German (Germany)",
+  "name": "Amala",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "de-DE-KatjaNeural",
+  "gender": "F",
+  "locale": "de_DE",
+  "locale_name": "German (Germany)",
+  "name": "Katja",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "de-DE-SeraphinaMultilingualNeural",
+  "gender": "F",
+  "locale": "de_DE",
+  "locale_name": "German (Germany)",
+  "name": "SeraphinaMultilingual",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": true
+ },
+ {
+  "key": "de-DE-ConradNeural",
+  "gender": "M",
+  "locale": "de_DE",
+  "locale_name": "German (Germany)",
+  "name": "Conrad",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "de-DE-FlorianMultilingualNeural",
+  "gender": "M",
+  "locale": "de_DE",
+  "locale_name": "German (Germany)",
+  "name": "FlorianMultilingual",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": true
+ },
+ {
+  "key": "de-DE-KillianNeural",
+  "gender": "M",
+  "locale": "de_DE",
+  "locale_name": "German (Germany)",
+  "name": "Killian",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "el-GR-AthinaNeural",
+  "gender": "F",
+  "locale": "el_GR",
+  "locale_name": "Greek (Greece)",
+  "name": "Athina",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "el-GR-NestorasNeural",
+  "gender": "M",
+  "locale": "el_GR",
+  "locale_name": "Greek (Greece)",
+  "name": "Nestoras",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-AU-NatashaNeural",
+  "gender": "F",
+  "locale": "en_AU",
+  "locale_name": "English (Australia)",
+  "name": "Natasha",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-AU-WilliamMultilingualNeural",
+  "gender": "M",
+  "locale": "en_AU",
+  "locale_name": "English (Australia)",
+  "name": "WilliamMultilingual",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": true
+ },
+ {
+  "key": "en-CA-ClaraNeural",
+  "gender": "F",
+  "locale": "en_CA",
+  "locale_name": "English (Canada)",
+  "name": "Clara",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-CA-LiamNeural",
+  "gender": "M",
+  "locale": "en_CA",
+  "locale_name": "English (Canada)",
+  "name": "Liam",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-GB-LibbyNeural",
+  "gender": "F",
+  "locale": "en_GB",
+  "locale_name": "English (United Kingdom)",
+  "name": "Libby",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-GB-MaisieNeural",
+  "gender": "F",
+  "locale": "en_GB",
+  "locale_name": "English (United Kingdom)",
+  "name": "Maisie",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-GB-SoniaNeural",
+  "gender": "F",
+  "locale": "en_GB",
+  "locale_name": "English (United Kingdom)",
+  "name": "Sonia",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-GB-RyanNeural",
+  "gender": "M",
+  "locale": "en_GB",
+  "locale_name": "English (United Kingdom)",
+  "name": "Ryan",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-GB-ThomasNeural",
+  "gender": "M",
+  "locale": "en_GB",
+  "locale_name": "English (United Kingdom)",
+  "name": "Thomas",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-HK-YanNeural",
+  "gender": "F",
+  "locale": "en_HK",
+  "locale_name": "English (Hong Kong SAR)",
+  "name": "Yan",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-HK-SamNeural",
+  "gender": "M",
+  "locale": "en_HK",
+  "locale_name": "English (Hong Kong SAR)",
+  "name": "Sam",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-IE-EmilyNeural",
+  "gender": "F",
+  "locale": "en_IE",
+  "locale_name": "English (Ireland)",
+  "name": "Emily",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-IE-ConnorNeural",
+  "gender": "M",
+  "locale": "en_IE",
+  "locale_name": "English (Ireland)",
+  "name": "Connor",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-IN-NeerjaNeural",
+  "gender": "F",
+  "locale": "en_IN",
+  "locale_name": "English (India)",
+  "name": "Neerja",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-IN-NeerjaExpressiveNeural",
+  "gender": "F",
+  "locale": "en_IN",
+  "locale_name": "English (India)",
+  "name": "NeerjaExpressive",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-IN-PrabhatNeural",
+  "gender": "M",
+  "locale": "en_IN",
+  "locale_name": "English (India)",
+  "name": "Prabhat",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-KE-AsiliaNeural",
+  "gender": "F",
+  "locale": "en_KE",
+  "locale_name": "English (Kenya)",
+  "name": "Asilia",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-KE-ChilembaNeural",
+  "gender": "M",
+  "locale": "en_KE",
+  "locale_name": "English (Kenya)",
+  "name": "Chilemba",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-NG-EzinneNeural",
+  "gender": "F",
+  "locale": "en_NG",
+  "locale_name": "English (Nigeria)",
+  "name": "Ezinne",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-NG-AbeoNeural",
+  "gender": "M",
+  "locale": "en_NG",
+  "locale_name": "English (Nigeria)",
+  "name": "Abeo",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-NZ-MollyNeural",
+  "gender": "F",
+  "locale": "en_NZ",
+  "locale_name": "English (New Zealand)",
+  "name": "Molly",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-NZ-MitchellNeural",
+  "gender": "M",
+  "locale": "en_NZ",
+  "locale_name": "English (New Zealand)",
+  "name": "Mitchell",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-PH-RosaNeural",
+  "gender": "F",
+  "locale": "en_PH",
+  "locale_name": "English (Philippines)",
+  "name": "Rosa",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-PH-JamesNeural",
+  "gender": "M",
+  "locale": "en_PH",
+  "locale_name": "English (Philippines)",
+  "name": "James",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-SG-LunaNeural",
+  "gender": "F",
+  "locale": "en_SG",
+  "locale_name": "English (Singapore)",
+  "name": "Luna",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-SG-WayneNeural",
+  "gender": "M",
+  "locale": "en_SG",
+  "locale_name": "English (Singapore)",
+  "name": "Wayne",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-TZ-ImaniNeural",
+  "gender": "F",
+  "locale": "en_TZ",
+  "locale_name": "English (Tanzania)",
+  "name": "Imani",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-TZ-ElimuNeural",
+  "gender": "M",
+  "locale": "en_TZ",
+  "locale_name": "English (Tanzania)",
+  "name": "Elimu",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-US-AnaNeural",
+  "gender": "F",
+  "locale": "en_US",
+  "locale_name": "English (United States)",
+  "name": "Ana",
+  "personalities": [
+   "Cute"
+  ],
+  "categories": [
+   "Cartoon",
+   "Conversation"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-US-AriaNeural",
+  "gender": "F",
+  "locale": "en_US",
+  "locale_name": "English (United States)",
+  "name": "Aria",
+  "personalities": [
+   "Positive",
+   "Confident"
+  ],
+  "categories": [
+   "News",
+   "Novel"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-US-AvaNeural",
+  "gender": "F",
+  "locale": "en_US",
+  "locale_name": "English (United States)",
+  "name": "Ava",
+  "personalities": [
+   "Expressive",
+   "Caring",
+   "Pleasant",
+   "Friendly"
+  ],
+  "categories": [
+   "Conversation",
+   "Copilot"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-US-AvaMultilingualNeural",
+  "gender": "F",
+  "locale": "en_US",
+  "locale_name": "English (United States)",
+  "name": "AvaMultilingual",
+  "personalities": [
+   "Expressive",
+   "Caring",
+   "Pleasant",
+   "Friendly"
+  ],
+  "categories": [
+   "Conversation",
+   "Copilot"
+  ],
+  "multilingual": true
+ },
+ {
+  "key": "en-US-EmmaNeural",
+  "gender": "F",
+  "locale": "en_US",
+  "locale_name": "English (United States)",
+  "name": "Emma",
+  "personalities": [
+   "Cheerful",
+   "Clear",
+   "Conversational"
+  ],
+  "categories": [
+   "Conversation",
+   "Copilot"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-US-EmmaMultilingualNeural",
+  "gender": "F",
+  "locale": "en_US",
+  "locale_name": "English (United States)",
+  "name": "EmmaMultilingual",
+  "personalities": [
+   "Cheerful",
+   "Clear",
+   "Conversational"
+  ],
+  "categories": [
+   "Conversation",
+   "Copilot"
+  ],
+  "multilingual": true
+ },
+ {
+  "key": "en-US-JennyNeural",
+  "gender": "F",
+  "locale": "en_US",
+  "locale_name": "English (United States)",
+  "name": "Jenny",
+  "personalities": [
+   "Friendly",
+   "Considerate",
+   "Comfort"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-US-MichelleNeural",
+  "gender": "F",
+  "locale": "en_US",
+  "locale_name": "English (United States)",
+  "name": "Michelle",
+  "personalities": [
+   "Friendly",
+   "Pleasant"
+  ],
+  "categories": [
+   "News",
+   "Novel"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-US-AndrewNeural",
+  "gender": "M",
+  "locale": "en_US",
+  "locale_name": "English (United States)",
+  "name": "Andrew",
+  "personalities": [
+   "Warm",
+   "Confident",
+   "Authentic",
+   "Honest"
+  ],
+  "categories": [
+   "Conversation",
+   "Copilot"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-US-AndrewMultilingualNeural",
+  "gender": "M",
+  "locale": "en_US",
+  "locale_name": "English (United States)",
+  "name": "AndrewMultilingual",
+  "personalities": [
+   "Warm",
+   "Confident",
+   "Authentic",
+   "Honest"
+  ],
+  "categories": [
+   "Conversation",
+   "Copilot"
+  ],
+  "multilingual": true
+ },
+ {
+  "key": "en-US-BrianNeural",
+  "gender": "M",
+  "locale": "en_US",
+  "locale_name": "English (United States)",
+  "name": "Brian",
+  "personalities": [
+   "Approachable",
+   "Casual",
+   "Sincere"
+  ],
+  "categories": [
+   "Conversation",
+   "Copilot"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-US-BrianMultilingualNeural",
+  "gender": "M",
+  "locale": "en_US",
+  "locale_name": "English (United States)",
+  "name": "BrianMultilingual",
+  "personalities": [
+   "Approachable",
+   "Casual",
+   "Sincere"
+  ],
+  "categories": [
+   "Conversation",
+   "Copilot"
+  ],
+  "multilingual": true
+ },
+ {
+  "key": "en-US-ChristopherNeural",
+  "gender": "M",
+  "locale": "en_US",
+  "locale_name": "English (United States)",
+  "name": "Christopher",
+  "personalities": [
+   "Reliable",
+   "Authority"
+  ],
+  "categories": [
+   "News",
+   "Novel"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-US-EricNeural",
+  "gender": "M",
+  "locale": "en_US",
+  "locale_name": "English (United States)",
+  "name": "Eric",
+  "personalities": [
+   "Rational"
+  ],
+  "categories": [
+   "News",
+   "Novel"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-US-GuyNeural",
+  "gender": "M",
+  "locale": "en_US",
+  "locale_name": "English (United States)",
+  "name": "Guy",
+  "personalities": [
+   "Passion"
+  ],
+  "categories": [
+   "News",
+   "Novel"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-US-RogerNeural",
+  "gender": "M",
+  "locale": "en_US",
+  "locale_name": "English (United States)",
+  "name": "Roger",
+  "personalities": [
+   "Lively"
+  ],
+  "categories": [
+   "News",
+   "Novel"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-US-SteffanNeural",
+  "gender": "M",
+  "locale": "en_US",
+  "locale_name": "English (United States)",
+  "name": "Steffan",
+  "personalities": [
+   "Rational"
+  ],
+  "categories": [
+   "News",
+   "Novel"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-ZA-LeahNeural",
+  "gender": "F",
+  "locale": "en_ZA",
+  "locale_name": "English (South Africa)",
+  "name": "Leah",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "en-ZA-LukeNeural",
+  "gender": "M",
+  "locale": "en_ZA",
+  "locale_name": "English (South Africa)",
+  "name": "Luke",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-AR-ElenaNeural",
+  "gender": "F",
+  "locale": "es_AR",
+  "locale_name": "Spanish (Argentina)",
+  "name": "Elena",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-AR-TomasNeural",
+  "gender": "M",
+  "locale": "es_AR",
+  "locale_name": "Spanish (Argentina)",
+  "name": "Tomas",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-BO-SofiaNeural",
+  "gender": "F",
+  "locale": "es_BO",
+  "locale_name": "Spanish (Bolivia)",
+  "name": "Sofia",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-BO-MarceloNeural",
+  "gender": "M",
+  "locale": "es_BO",
+  "locale_name": "Spanish (Bolivia)",
+  "name": "Marcelo",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-CL-CatalinaNeural",
+  "gender": "F",
+  "locale": "es_CL",
+  "locale_name": "Spanish (Chile)",
+  "name": "Catalina",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-CL-LorenzoNeural",
+  "gender": "M",
+  "locale": "es_CL",
+  "locale_name": "Spanish (Chile)",
+  "name": "Lorenzo",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-CO-SalomeNeural",
+  "gender": "F",
+  "locale": "es_CO",
+  "locale_name": "Spanish (Colombia)",
+  "name": "Salome",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-CO-GonzaloNeural",
+  "gender": "M",
+  "locale": "es_CO",
+  "locale_name": "Spanish (Colombia)",
+  "name": "Gonzalo",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-CR-MariaNeural",
+  "gender": "F",
+  "locale": "es_CR",
+  "locale_name": "Spanish (Costa Rica)",
+  "name": "Maria",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-CR-JuanNeural",
+  "gender": "M",
+  "locale": "es_CR",
+  "locale_name": "Spanish (Costa Rica)",
+  "name": "Juan",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-CU-BelkysNeural",
+  "gender": "F",
+  "locale": "es_CU",
+  "locale_name": "Spanish (Cuba)",
+  "name": "Belkys",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-CU-ManuelNeural",
+  "gender": "M",
+  "locale": "es_CU",
+  "locale_name": "Spanish (Cuba)",
+  "name": "Manuel",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-DO-RamonaNeural",
+  "gender": "F",
+  "locale": "es_DO",
+  "locale_name": "Spanish (Dominican Republic)",
+  "name": "Ramona",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-DO-EmilioNeural",
+  "gender": "M",
+  "locale": "es_DO",
+  "locale_name": "Spanish (Dominican Republic)",
+  "name": "Emilio",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-EC-AndreaNeural",
+  "gender": "F",
+  "locale": "es_EC",
+  "locale_name": "Spanish (Ecuador)",
+  "name": "Andrea",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-EC-LuisNeural",
+  "gender": "M",
+  "locale": "es_EC",
+  "locale_name": "Spanish (Ecuador)",
+  "name": "Luis",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-ES-ElviraNeural",
+  "gender": "F",
+  "locale": "es_ES",
+  "locale_name": "Spanish (Spain)",
+  "name": "Elvira",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-ES-XimenaNeural",
+  "gender": "F",
+  "locale": "es_ES",
+  "locale_name": "Spanish (Spain)",
+  "name": "Ximena",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-ES-AlvaroNeural",
+  "gender": "M",
+  "locale": "es_ES",
+  "locale_name": "Spanish (Spain)",
+  "name": "Alvaro",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-GQ-TeresaNeural",
+  "gender": "F",
+  "locale": "es_GQ",
+  "locale_name": "Spanish (Equatorial Guinea)",
+  "name": "Teresa",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-GQ-JavierNeural",
+  "gender": "M",
+  "locale": "es_GQ",
+  "locale_name": "Spanish (Equatorial Guinea)",
+  "name": "Javier",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-GT-MartaNeural",
+  "gender": "F",
+  "locale": "es_GT",
+  "locale_name": "Spanish (Guatemala)",
+  "name": "Marta",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-GT-AndresNeural",
+  "gender": "M",
+  "locale": "es_GT",
+  "locale_name": "Spanish (Guatemala)",
+  "name": "Andres",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-HN-KarlaNeural",
+  "gender": "F",
+  "locale": "es_HN",
+  "locale_name": "Spanish (Honduras)",
+  "name": "Karla",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-HN-CarlosNeural",
+  "gender": "M",
+  "locale": "es_HN",
+  "locale_name": "Spanish (Honduras)",
+  "name": "Carlos",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-MX-DaliaNeural",
+  "gender": "F",
+  "locale": "es_MX",
+  "locale_name": "Spanish (Mexico)",
+  "name": "Dalia",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-MX-JorgeNeural",
+  "gender": "M",
+  "locale": "es_MX",
+  "locale_name": "Spanish (Mexico)",
+  "name": "Jorge",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-NI-YolandaNeural",
+  "gender": "F",
+  "locale": "es_NI",
+  "locale_name": "Spanish (Nicaragua)",
+  "name": "Yolanda",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-NI-FedericoNeural",
+  "gender": "M",
+  "locale": "es_NI",
+  "locale_name": "Spanish (Nicaragua)",
+  "name": "Federico",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-PA-MargaritaNeural",
+  "gender": "F",
+  "locale": "es_PA",
+  "locale_name": "Spanish (Panama)",
+  "name": "Margarita",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-PA-RobertoNeural",
+  "gender": "M",
+  "locale": "es_PA",
+  "locale_name": "Spanish (Panama)",
+  "name": "Roberto",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-PE-CamilaNeural",
+  "gender": "F",
+  "locale": "es_PE",
+  "locale_name": "Spanish (Peru)",
+  "name": "Camila",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-PE-AlexNeural",
+  "gender": "M",
+  "locale": "es_PE",
+  "locale_name": "Spanish (Peru)",
+  "name": "Alex",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-PR-KarinaNeural",
+  "gender": "F",
+  "locale": "es_PR",
+  "locale_name": "Spanish (Puerto Rico)",
+  "name": "Karina",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-PR-VictorNeural",
+  "gender": "M",
+  "locale": "es_PR",
+  "locale_name": "Spanish (Puerto Rico)",
+  "name": "Victor",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-PY-TaniaNeural",
+  "gender": "F",
+  "locale": "es_PY",
+  "locale_name": "Spanish (Paraguay)",
+  "name": "Tania",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-PY-MarioNeural",
+  "gender": "M",
+  "locale": "es_PY",
+  "locale_name": "Spanish (Paraguay)",
+  "name": "Mario",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-SV-LorenaNeural",
+  "gender": "F",
+  "locale": "es_SV",
+  "locale_name": "Spanish (El Salvador)",
+  "name": "Lorena",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-SV-RodrigoNeural",
+  "gender": "M",
+  "locale": "es_SV",
+  "locale_name": "Spanish (El Salvador)",
+  "name": "Rodrigo",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-US-PalomaNeural",
+  "gender": "F",
+  "locale": "es_US",
+  "locale_name": "Spanish (United States)",
+  "name": "Paloma",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-US-AlonsoNeural",
+  "gender": "M",
+  "locale": "es_US",
+  "locale_name": "Spanish (United States)",
+  "name": "Alonso",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-UY-ValentinaNeural",
+  "gender": "F",
+  "locale": "es_UY",
+  "locale_name": "Spanish (Uruguay)",
+  "name": "Valentina",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-UY-MateoNeural",
+  "gender": "M",
+  "locale": "es_UY",
+  "locale_name": "Spanish (Uruguay)",
+  "name": "Mateo",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-VE-PaolaNeural",
+  "gender": "F",
+  "locale": "es_VE",
+  "locale_name": "Spanish (Venezuela)",
+  "name": "Paola",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "es-VE-SebastianNeural",
+  "gender": "M",
+  "locale": "es_VE",
+  "locale_name": "Spanish (Venezuela)",
+  "name": "Sebastian",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "et-EE-AnuNeural",
+  "gender": "F",
+  "locale": "et_EE",
+  "locale_name": "Estonian (Estonia)",
+  "name": "Anu",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "et-EE-KertNeural",
+  "gender": "M",
+  "locale": "et_EE",
+  "locale_name": "Estonian (Estonia)",
+  "name": "Kert",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "fa-IR-DilaraNeural",
+  "gender": "F",
+  "locale": "fa_IR",
+  "locale_name": "Persian (Iran)",
+  "name": "Dilara",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "fa-IR-FaridNeural",
+  "gender": "M",
+  "locale": "fa_IR",
+  "locale_name": "Persian (Iran)",
+  "name": "Farid",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "fi-FI-NooraNeural",
+  "gender": "F",
+  "locale": "fi_FI",
+  "locale_name": "Finnish (Finland)",
+  "name": "Noora",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "fi-FI-HarriNeural",
+  "gender": "M",
+  "locale": "fi_FI",
+  "locale_name": "Finnish (Finland)",
+  "name": "Harri",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "fil-PH-BlessicaNeural",
+  "gender": "F",
+  "locale": "fil_PH",
+  "locale_name": "Filipino (Philippines)",
+  "name": "Blessica",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "fil-PH-AngeloNeural",
+  "gender": "M",
+  "locale": "fil_PH",
+  "locale_name": "Filipino (Philippines)",
+  "name": "Angelo",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "fr-BE-CharlineNeural",
+  "gender": "F",
+  "locale": "fr_BE",
+  "locale_name": "French (Belgium)",
+  "name": "Charline",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "fr-BE-GerardNeural",
+  "gender": "M",
+  "locale": "fr_BE",
+  "locale_name": "French (Belgium)",
+  "name": "Gerard",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "fr-CA-SylvieNeural",
+  "gender": "F",
+  "locale": "fr_CA",
+  "locale_name": "French (Canada)",
+  "name": "Sylvie",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "fr-CA-AntoineNeural",
+  "gender": "M",
+  "locale": "fr_CA",
+  "locale_name": "French (Canada)",
+  "name": "Antoine",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "fr-CA-JeanNeural",
+  "gender": "M",
+  "locale": "fr_CA",
+  "locale_name": "French (Canada)",
+  "name": "Jean",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "fr-CA-ThierryNeural",
+  "gender": "M",
+  "locale": "fr_CA",
+  "locale_name": "French (Canada)",
+  "name": "Thierry",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "fr-CH-ArianeNeural",
+  "gender": "F",
+  "locale": "fr_CH",
+  "locale_name": "French (Switzerland)",
+  "name": "Ariane",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "fr-CH-FabriceNeural",
+  "gender": "M",
+  "locale": "fr_CH",
+  "locale_name": "French (Switzerland)",
+  "name": "Fabrice",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "fr-FR-DeniseNeural",
+  "gender": "F",
+  "locale": "fr_FR",
+  "locale_name": "French (France)",
+  "name": "Denise",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "fr-FR-EloiseNeural",
+  "gender": "F",
+  "locale": "fr_FR",
+  "locale_name": "French (France)",
+  "name": "Eloise",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "fr-FR-VivienneMultilingualNeural",
+  "gender": "F",
+  "locale": "fr_FR",
+  "locale_name": "French (France)",
+  "name": "VivienneMultilingual",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": true
+ },
+ {
+  "key": "fr-FR-HenriNeural",
+  "gender": "M",
+  "locale": "fr_FR",
+  "locale_name": "French (France)",
+  "name": "Henri",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "fr-FR-RemyMultilingualNeural",
+  "gender": "M",
+  "locale": "fr_FR",
+  "locale_name": "French (France)",
+  "name": "RemyMultilingual",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": true
+ },
+ {
+  "key": "ga-IE-OrlaNeural",
+  "gender": "F",
+  "locale": "ga_IE",
+  "locale_name": "Irish (Ireland)",
+  "name": "Orla",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ga-IE-ColmNeural",
+  "gender": "M",
+  "locale": "ga_IE",
+  "locale_name": "Irish (Ireland)",
+  "name": "Colm",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "gl-ES-SabelaNeural",
+  "gender": "F",
+  "locale": "gl_ES",
+  "locale_name": "Galician",
+  "name": "Sabela",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "gl-ES-RoiNeural",
+  "gender": "M",
+  "locale": "gl_ES",
+  "locale_name": "Galician",
+  "name": "Roi",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "gu-IN-DhwaniNeural",
+  "gender": "F",
+  "locale": "gu_IN",
+  "locale_name": "Gujarati (India)",
+  "name": "Dhwani",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "gu-IN-NiranjanNeural",
+  "gender": "M",
+  "locale": "gu_IN",
+  "locale_name": "Gujarati (India)",
+  "name": "Niranjan",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "he-IL-HilaNeural",
+  "gender": "F",
+  "locale": "he_IL",
+  "locale_name": "Hebrew (Israel)",
+  "name": "Hila",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "he-IL-AvriNeural",
+  "gender": "M",
+  "locale": "he_IL",
+  "locale_name": "Hebrew (Israel)",
+  "name": "Avri",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "hi-IN-SwaraNeural",
+  "gender": "F",
+  "locale": "hi_IN",
+  "locale_name": "Hindi (India)",
+  "name": "Swara",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "hi-IN-MadhurNeural",
+  "gender": "M",
+  "locale": "hi_IN",
+  "locale_name": "Hindi (India)",
+  "name": "Madhur",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "hr-HR-GabrijelaNeural",
+  "gender": "F",
+  "locale": "hr_HR",
+  "locale_name": "Croatian (Croatia)",
+  "name": "Gabrijela",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "hr-HR-SreckoNeural",
+  "gender": "M",
+  "locale": "hr_HR",
+  "locale_name": "Croatian (Croatia)",
+  "name": "Srecko",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "hu-HU-NoemiNeural",
+  "gender": "F",
+  "locale": "hu_HU",
+  "locale_name": "Hungarian (Hungary)",
+  "name": "Noemi",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "hu-HU-TamasNeural",
+  "gender": "M",
+  "locale": "hu_HU",
+  "locale_name": "Hungarian (Hungary)",
+  "name": "Tamas",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "id-ID-GadisNeural",
+  "gender": "F",
+  "locale": "id_ID",
+  "locale_name": "Indonesian (Indonesia)",
+  "name": "Gadis",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "id-ID-ArdiNeural",
+  "gender": "M",
+  "locale": "id_ID",
+  "locale_name": "Indonesian (Indonesia)",
+  "name": "Ardi",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "is-IS-GudrunNeural",
+  "gender": "F",
+  "locale": "is_IS",
+  "locale_name": "Icelandic (Iceland)",
+  "name": "Gudrun",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "is-IS-GunnarNeural",
+  "gender": "M",
+  "locale": "is_IS",
+  "locale_name": "Icelandic (Iceland)",
+  "name": "Gunnar",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "it-IT-ElsaNeural",
+  "gender": "F",
+  "locale": "it_IT",
+  "locale_name": "Italian (Italy)",
+  "name": "Elsa",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "it-IT-IsabellaNeural",
+  "gender": "F",
+  "locale": "it_IT",
+  "locale_name": "Italian (Italy)",
+  "name": "Isabella",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "it-IT-DiegoNeural",
+  "gender": "M",
+  "locale": "it_IT",
+  "locale_name": "Italian (Italy)",
+  "name": "Diego",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "it-IT-GiuseppeMultilingualNeural",
+  "gender": "M",
+  "locale": "it_IT",
+  "locale_name": "Italian (Italy)",
+  "name": "GiuseppeMultilingual",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": true
+ },
+ {
+  "key": "iu-Cans-CA-SiqiniqNeural",
+  "gender": "F",
+  "locale": "iu_Cans_CA",
+  "locale_name": "Inuktitut (Syllabics, Canada)",
+  "name": "Siqiniq",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "iu-Cans-CA-TaqqiqNeural",
+  "gender": "M",
+  "locale": "iu_Cans_CA",
+  "locale_name": "Inuktitut (Syllabics, Canada)",
+  "name": "Taqqiq",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "iu-Latn-CA-SiqiniqNeural",
+  "gender": "F",
+  "locale": "iu_Latn_CA",
+  "locale_name": "Inuktitut (Latin, Canada)",
+  "name": "Siqiniq",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "iu-Latn-CA-TaqqiqNeural",
+  "gender": "M",
+  "locale": "iu_Latn_CA",
+  "locale_name": "Inuktitut (Latin, Canada)",
+  "name": "Taqqiq",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ja-JP-NanamiNeural",
+  "gender": "F",
+  "locale": "ja_JP",
+  "locale_name": "Japanese (Japan)",
+  "name": "Nanami",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ja-JP-KeitaNeural",
+  "gender": "M",
+  "locale": "ja_JP",
+  "locale_name": "Japanese (Japan)",
+  "name": "Keita",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "jv-ID-SitiNeural",
+  "gender": "F",
+  "locale": "jv_ID",
+  "locale_name": "Javanese (Latin, Indonesia)",
+  "name": "Siti",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "jv-ID-DimasNeural",
+  "gender": "M",
+  "locale": "jv_ID",
+  "locale_name": "Javanese (Latin, Indonesia)",
+  "name": "Dimas",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ka-GE-EkaNeural",
+  "gender": "F",
+  "locale": "ka_GE",
+  "locale_name": "Georgian (Georgia)",
+  "name": "Eka",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ka-GE-GiorgiNeural",
+  "gender": "M",
+  "locale": "ka_GE",
+  "locale_name": "Georgian (Georgia)",
+  "name": "Giorgi",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "kk-KZ-AigulNeural",
+  "gender": "F",
+  "locale": "kk_KZ",
+  "locale_name": "Kazakh (Kazakhstan)",
+  "name": "Aigul",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "kk-KZ-DauletNeural",
+  "gender": "M",
+  "locale": "kk_KZ",
+  "locale_name": "Kazakh (Kazakhstan)",
+  "name": "Daulet",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "km-KH-SreymomNeural",
+  "gender": "F",
+  "locale": "km_KH",
+  "locale_name": "Khmer (Cambodia)",
+  "name": "Sreymom",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "km-KH-PisethNeural",
+  "gender": "M",
+  "locale": "km_KH",
+  "locale_name": "Khmer (Cambodia)",
+  "name": "Piseth",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "kn-IN-SapnaNeural",
+  "gender": "F",
+  "locale": "kn_IN",
+  "locale_name": "Kannada (India)",
+  "name": "Sapna",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "kn-IN-GaganNeural",
+  "gender": "M",
+  "locale": "kn_IN",
+  "locale_name": "Kannada (India)",
+  "name": "Gagan",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ko-KR-SunHiNeural",
+  "gender": "F",
+  "locale": "ko_KR",
+  "locale_name": "Korean (Korea)",
+  "name": "SunHi",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ko-KR-HyunsuMultilingualNeural",
+  "gender": "M",
+  "locale": "ko_KR",
+  "locale_name": "Korean (Korea)",
+  "name": "HyunsuMultilingual",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": true
+ },
+ {
+  "key": "ko-KR-InJoonNeural",
+  "gender": "M",
+  "locale": "ko_KR",
+  "locale_name": "Korean (Korea)",
+  "name": "InJoon",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "lo-LA-KeomanyNeural",
+  "gender": "F",
+  "locale": "lo_LA",
+  "locale_name": "Lao (Laos)",
+  "name": "Keomany",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "lo-LA-ChanthavongNeural",
+  "gender": "M",
+  "locale": "lo_LA",
+  "locale_name": "Lao (Laos)",
+  "name": "Chanthavong",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "lt-LT-OnaNeural",
+  "gender": "F",
+  "locale": "lt_LT",
+  "locale_name": "Lithuanian (Lithuania)",
+  "name": "Ona",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "lt-LT-LeonasNeural",
+  "gender": "M",
+  "locale": "lt_LT",
+  "locale_name": "Lithuanian (Lithuania)",
+  "name": "Leonas",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "lv-LV-EveritaNeural",
+  "gender": "F",
+  "locale": "lv_LV",
+  "locale_name": "Latvian (Latvia)",
+  "name": "Everita",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "lv-LV-NilsNeural",
+  "gender": "M",
+  "locale": "lv_LV",
+  "locale_name": "Latvian (Latvia)",
+  "name": "Nils",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "mk-MK-MarijaNeural",
+  "gender": "F",
+  "locale": "mk_MK",
+  "locale_name": "Macedonian (North Macedonia)",
+  "name": "Marija",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "mk-MK-AleksandarNeural",
+  "gender": "M",
+  "locale": "mk_MK",
+  "locale_name": "Macedonian (North Macedonia)",
+  "name": "Aleksandar",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ml-IN-SobhanaNeural",
+  "gender": "F",
+  "locale": "ml_IN",
+  "locale_name": "Malayalam (India)",
+  "name": "Sobhana",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ml-IN-MidhunNeural",
+  "gender": "M",
+  "locale": "ml_IN",
+  "locale_name": "Malayalam (India)",
+  "name": "Midhun",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "mn-MN-YesuiNeural",
+  "gender": "F",
+  "locale": "mn_MN",
+  "locale_name": "Mongolian (Mongolia)",
+  "name": "Yesui",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "mn-MN-BataaNeural",
+  "gender": "M",
+  "locale": "mn_MN",
+  "locale_name": "Mongolian (Mongolia)",
+  "name": "Bataa",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "mr-IN-AarohiNeural",
+  "gender": "F",
+  "locale": "mr_IN",
+  "locale_name": "Marathi (India)",
+  "name": "Aarohi",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "mr-IN-ManoharNeural",
+  "gender": "M",
+  "locale": "mr_IN",
+  "locale_name": "Marathi (India)",
+  "name": "Manohar",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ms-MY-YasminNeural",
+  "gender": "F",
+  "locale": "ms_MY",
+  "locale_name": "Malay (Malaysia)",
+  "name": "Yasmin",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ms-MY-OsmanNeural",
+  "gender": "M",
+  "locale": "ms_MY",
+  "locale_name": "Malay (Malaysia)",
+  "name": "Osman",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "mt-MT-GraceNeural",
+  "gender": "F",
+  "locale": "mt_MT",
+  "locale_name": "Maltese (Malta)",
+  "name": "Grace",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "mt-MT-JosephNeural",
+  "gender": "M",
+  "locale": "mt_MT",
+  "locale_name": "Maltese (Malta)",
+  "name": "Joseph",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "my-MM-NilarNeural",
+  "gender": "F",
+  "locale": "my_MM",
+  "locale_name": "Burmese (Myanmar)",
+  "name": "Nilar",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "my-MM-ThihaNeural",
+  "gender": "M",
+  "locale": "my_MM",
+  "locale_name": "Burmese (Myanmar)",
+  "name": "Thiha",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "nb-NO-PernilleNeural",
+  "gender": "F",
+  "locale": "nb_NO",
+  "locale_name": "Norwegian Bokmål (Norway)",
+  "name": "Pernille",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "nb-NO-FinnNeural",
+  "gender": "M",
+  "locale": "nb_NO",
+  "locale_name": "Norwegian Bokmål (Norway)",
+  "name": "Finn",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ne-NP-HemkalaNeural",
+  "gender": "F",
+  "locale": "ne_NP",
+  "locale_name": "Nepali (Nepal)",
+  "name": "Hemkala",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ne-NP-SagarNeural",
+  "gender": "M",
+  "locale": "ne_NP",
+  "locale_name": "Nepali (Nepal)",
+  "name": "Sagar",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "nl-BE-DenaNeural",
+  "gender": "F",
+  "locale": "nl_BE",
+  "locale_name": "Dutch (Belgium)",
+  "name": "Dena",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "nl-BE-ArnaudNeural",
+  "gender": "M",
+  "locale": "nl_BE",
+  "locale_name": "Dutch (Belgium)",
+  "name": "Arnaud",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "nl-NL-ColetteNeural",
+  "gender": "F",
+  "locale": "nl_NL",
+  "locale_name": "Dutch (Netherlands)",
+  "name": "Colette",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "nl-NL-FennaNeural",
+  "gender": "F",
+  "locale": "nl_NL",
+  "locale_name": "Dutch (Netherlands)",
+  "name": "Fenna",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "nl-NL-MaartenNeural",
+  "gender": "M",
+  "locale": "nl_NL",
+  "locale_name": "Dutch (Netherlands)",
+  "name": "Maarten",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "pl-PL-ZofiaNeural",
+  "gender": "F",
+  "locale": "pl_PL",
+  "locale_name": "Polish (Poland)",
+  "name": "Zofia",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "pl-PL-MarekNeural",
+  "gender": "M",
+  "locale": "pl_PL",
+  "locale_name": "Polish (Poland)",
+  "name": "Marek",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ps-AF-LatifaNeural",
+  "gender": "F",
+  "locale": "ps_AF",
+  "locale_name": "Pashto (Afghanistan)",
+  "name": "Latifa",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ps-AF-GulNawazNeural",
+  "gender": "M",
+  "locale": "ps_AF",
+  "locale_name": "Pashto (Afghanistan)",
+  "name": "GulNawaz",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "pt-BR-FranciscaNeural",
+  "gender": "F",
+  "locale": "pt_BR",
+  "locale_name": "Portuguese (Brazil)",
+  "name": "Francisca",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "pt-BR-ThalitaMultilingualNeural",
+  "gender": "F",
+  "locale": "pt_BR",
+  "locale_name": "Portuguese (Brazil)",
+  "name": "ThalitaMultilingual",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": true
+ },
+ {
+  "key": "pt-BR-AntonioNeural",
+  "gender": "M",
+  "locale": "pt_BR",
+  "locale_name": "Portuguese (Brazil)",
+  "name": "Antonio",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "pt-PT-RaquelNeural",
+  "gender": "F",
+  "locale": "pt_PT",
+  "locale_name": "Portuguese (Portugal)",
+  "name": "Raquel",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "pt-PT-DuarteNeural",
+  "gender": "M",
+  "locale": "pt_PT",
+  "locale_name": "Portuguese (Portugal)",
+  "name": "Duarte",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ro-RO-AlinaNeural",
+  "gender": "F",
+  "locale": "ro_RO",
+  "locale_name": "Romanian (Romania)",
+  "name": "Alina",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ro-RO-EmilNeural",
+  "gender": "M",
+  "locale": "ro_RO",
+  "locale_name": "Romanian (Romania)",
+  "name": "Emil",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ru-RU-SvetlanaNeural",
+  "gender": "F",
+  "locale": "ru_RU",
+  "locale_name": "Russian (Russia)",
+  "name": "Svetlana",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ru-RU-DmitryNeural",
+  "gender": "M",
+  "locale": "ru_RU",
+  "locale_name": "Russian (Russia)",
+  "name": "Dmitry",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "si-LK-ThiliniNeural",
+  "gender": "F",
+  "locale": "si_LK",
+  "locale_name": "Sinhala (Sri Lanka)",
+  "name": "Thilini",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "si-LK-SameeraNeural",
+  "gender": "M",
+  "locale": "si_LK",
+  "locale_name": "Sinhala (Sri Lanka)",
+  "name": "Sameera",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "sk-SK-ViktoriaNeural",
+  "gender": "F",
+  "locale": "sk_SK",
+  "locale_name": "Slovak (Slovakia)",
+  "name": "Viktoria",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "sk-SK-LukasNeural",
+  "gender": "M",
+  "locale": "sk_SK",
+  "locale_name": "Slovak (Slovakia)",
+  "name": "Lukas",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "sl-SI-PetraNeural",
+  "gender": "F",
+  "locale": "sl_SI",
+  "locale_name": "Slovenian (Slovenia)",
+  "name": "Petra",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "sl-SI-RokNeural",
+  "gender": "M",
+  "locale": "sl_SI",
+  "locale_name": "Slovenian (Slovenia)",
+  "name": "Rok",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "so-SO-UbaxNeural",
+  "gender": "F",
+  "locale": "so_SO",
+  "locale_name": "Somali (Somalia)",
+  "name": "Ubax",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "so-SO-MuuseNeural",
+  "gender": "M",
+  "locale": "so_SO",
+  "locale_name": "Somali (Somalia)",
+  "name": "Muuse",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "sq-AL-AnilaNeural",
+  "gender": "F",
+  "locale": "sq_AL",
+  "locale_name": "Albanian (Albania)",
+  "name": "Anila",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "sq-AL-IlirNeural",
+  "gender": "M",
+  "locale": "sq_AL",
+  "locale_name": "Albanian (Albania)",
+  "name": "Ilir",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "sr-RS-SophieNeural",
+  "gender": "F",
+  "locale": "sr_RS",
+  "locale_name": "Serbian (Cyrillic, Serbia)",
+  "name": "Sophie",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "sr-RS-NicholasNeural",
+  "gender": "M",
+  "locale": "sr_RS",
+  "locale_name": "Serbian (Cyrillic, Serbia)",
+  "name": "Nicholas",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "su-ID-TutiNeural",
+  "gender": "F",
+  "locale": "su_ID",
+  "locale_name": "Sundanese (Indonesia)",
+  "name": "Tuti",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "su-ID-JajangNeural",
+  "gender": "M",
+  "locale": "su_ID",
+  "locale_name": "Sundanese (Indonesia)",
+  "name": "Jajang",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "sv-SE-SofieNeural",
+  "gender": "F",
+  "locale": "sv_SE",
+  "locale_name": "Swedish (Sweden)",
+  "name": "Sofie",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "sv-SE-MattiasNeural",
+  "gender": "M",
+  "locale": "sv_SE",
+  "locale_name": "Swedish (Sweden)",
+  "name": "Mattias",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "sw-KE-ZuriNeural",
+  "gender": "F",
+  "locale": "sw_KE",
+  "locale_name": "Swahili (Kenya)",
+  "name": "Zuri",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "sw-KE-RafikiNeural",
+  "gender": "M",
+  "locale": "sw_KE",
+  "locale_name": "Swahili (Kenya)",
+  "name": "Rafiki",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "sw-TZ-RehemaNeural",
+  "gender": "F",
+  "locale": "sw_TZ",
+  "locale_name": "Swahili (Tanzania)",
+  "name": "Rehema",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "sw-TZ-DaudiNeural",
+  "gender": "M",
+  "locale": "sw_TZ",
+  "locale_name": "Swahili (Tanzania)",
+  "name": "Daudi",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ta-IN-PallaviNeural",
+  "gender": "F",
+  "locale": "ta_IN",
+  "locale_name": "Tamil (India)",
+  "name": "Pallavi",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ta-IN-ValluvarNeural",
+  "gender": "M",
+  "locale": "ta_IN",
+  "locale_name": "Tamil (India)",
+  "name": "Valluvar",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ta-LK-SaranyaNeural",
+  "gender": "F",
+  "locale": "ta_LK",
+  "locale_name": "Tamil (Sri Lanka)",
+  "name": "Saranya",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ta-LK-KumarNeural",
+  "gender": "M",
+  "locale": "ta_LK",
+  "locale_name": "Tamil (Sri Lanka)",
+  "name": "Kumar",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ta-MY-KaniNeural",
+  "gender": "F",
+  "locale": "ta_MY",
+  "locale_name": "Tamil (Malaysia)",
+  "name": "Kani",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ta-MY-SuryaNeural",
+  "gender": "M",
+  "locale": "ta_MY",
+  "locale_name": "Tamil (Malaysia)",
+  "name": "Surya",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ta-SG-VenbaNeural",
+  "gender": "F",
+  "locale": "ta_SG",
+  "locale_name": "Tamil (Singapore)",
+  "name": "Venba",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ta-SG-AnbuNeural",
+  "gender": "M",
+  "locale": "ta_SG",
+  "locale_name": "Tamil (Singapore)",
+  "name": "Anbu",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "te-IN-ShrutiNeural",
+  "gender": "F",
+  "locale": "te_IN",
+  "locale_name": "Telugu (India)",
+  "name": "Shruti",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "te-IN-MohanNeural",
+  "gender": "M",
+  "locale": "te_IN",
+  "locale_name": "Telugu (India)",
+  "name": "Mohan",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "th-TH-PremwadeeNeural",
+  "gender": "F",
+  "locale": "th_TH",
+  "locale_name": "Thai (Thailand)",
+  "name": "Premwadee",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "th-TH-NiwatNeural",
+  "gender": "M",
+  "locale": "th_TH",
+  "locale_name": "Thai (Thailand)",
+  "name": "Niwat",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "tr-TR-EmelNeural",
+  "gender": "F",
+  "locale": "tr_TR",
+  "locale_name": "Turkish (Türkiye)",
+  "name": "Emel",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "tr-TR-AhmetNeural",
+  "gender": "M",
+  "locale": "tr_TR",
+  "locale_name": "Turkish (Türkiye)",
+  "name": "Ahmet",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "uk-UA-PolinaNeural",
+  "gender": "F",
+  "locale": "uk_UA",
+  "locale_name": "Ukrainian (Ukraine)",
+  "name": "Polina",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "uk-UA-OstapNeural",
+  "gender": "M",
+  "locale": "uk_UA",
+  "locale_name": "Ukrainian (Ukraine)",
+  "name": "Ostap",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ur-IN-GulNeural",
+  "gender": "F",
+  "locale": "ur_IN",
+  "locale_name": "Urdu (India)",
+  "name": "Gul",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ur-IN-SalmanNeural",
+  "gender": "M",
+  "locale": "ur_IN",
+  "locale_name": "Urdu (India)",
+  "name": "Salman",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ur-PK-UzmaNeural",
+  "gender": "F",
+  "locale": "ur_PK",
+  "locale_name": "Urdu (Pakistan)",
+  "name": "Uzma",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "ur-PK-AsadNeural",
+  "gender": "M",
+  "locale": "ur_PK",
+  "locale_name": "Urdu (Pakistan)",
+  "name": "Asad",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "uz-UZ-MadinaNeural",
+  "gender": "F",
+  "locale": "uz_UZ",
+  "locale_name": "Uzbek (Latin, Uzbekistan)",
+  "name": "Madina",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "uz-UZ-SardorNeural",
+  "gender": "M",
+  "locale": "uz_UZ",
+  "locale_name": "Uzbek (Latin, Uzbekistan)",
+  "name": "Sardor",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "vi-VN-HoaiMyNeural",
+  "gender": "F",
+  "locale": "vi_VN",
+  "locale_name": "Vietnamese (Vietnam)",
+  "name": "HoaiMy",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "vi-VN-NamMinhNeural",
+  "gender": "M",
+  "locale": "vi_VN",
+  "locale_name": "Vietnamese (Vietnam)",
+  "name": "NamMinh",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "zh-CN-XiaoxiaoNeural",
+  "gender": "F",
+  "locale": "zh_CN",
+  "locale_name": "Chinese (Mandarin, Simplified)",
+  "name": "Xiaoxiao",
+  "personalities": [
+   "Warm"
+  ],
+  "categories": [
+   "News",
+   "Novel"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "zh-CN-XiaoyiNeural",
+  "gender": "F",
+  "locale": "zh_CN",
+  "locale_name": "Chinese (Mandarin, Simplified)",
+  "name": "Xiaoyi",
+  "personalities": [
+   "Lively"
+  ],
+  "categories": [
+   "Cartoon",
+   "Novel"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "zh-CN-YunjianNeural",
+  "gender": "M",
+  "locale": "zh_CN",
+  "locale_name": "Chinese (Mandarin, Simplified)",
+  "name": "Yunjian",
+  "personalities": [
+   "Passion"
+  ],
+  "categories": [
+   "Sports",
+   " Novel"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "zh-CN-YunxiNeural",
+  "gender": "M",
+  "locale": "zh_CN",
+  "locale_name": "Chinese (Mandarin, Simplified)",
+  "name": "Yunxi",
+  "personalities": [
+   "Lively",
+   "Sunshine"
+  ],
+  "categories": [
+   "Novel"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "zh-CN-YunxiaNeural",
+  "gender": "M",
+  "locale": "zh_CN",
+  "locale_name": "Chinese (Mandarin, Simplified)",
+  "name": "Yunxia",
+  "personalities": [
+   "Cute"
+  ],
+  "categories": [
+   "Cartoon",
+   "Novel"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "zh-CN-YunyangNeural",
+  "gender": "M",
+  "locale": "zh_CN",
+  "locale_name": "Chinese (Mandarin, Simplified)",
+  "name": "Yunyang",
+  "personalities": [
+   "Professional",
+   "Reliable"
+  ],
+  "categories": [
+   "News"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "zh-CN-liaoning-XiaobeiNeural",
+  "gender": "F",
+  "locale": "zh_CN_liaoning",
+  "locale_name": "Chinese (Northeastern Mandarin, Simplified)",
+  "name": "Xiaobei",
+  "personalities": [
+   "Humorous"
+  ],
+  "categories": [
+   "Dialect"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "zh-CN-shaanxi-XiaoniNeural",
+  "gender": "F",
+  "locale": "zh_CN_shaanxi",
+  "locale_name": "Chinese (Zhongyuan Mandarin Shaanxi, Simplified)",
+  "name": "Xiaoni",
+  "personalities": [
+   "Bright"
+  ],
+  "categories": [
+   "Dialect"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "zh-HK-HiuGaaiNeural",
+  "gender": "F",
+  "locale": "zh_HK",
+  "locale_name": "Chinese (Cantonese, Traditional)",
+  "name": "HiuGaai",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "zh-HK-HiuMaanNeural",
+  "gender": "F",
+  "locale": "zh_HK",
+  "locale_name": "Chinese (Cantonese, Traditional)",
+  "name": "HiuMaan",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "zh-HK-WanLungNeural",
+  "gender": "M",
+  "locale": "zh_HK",
+  "locale_name": "Chinese (Cantonese, Traditional)",
+  "name": "WanLung",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "zh-TW-HsiaoChenNeural",
+  "gender": "F",
+  "locale": "zh_TW",
+  "locale_name": "Chinese (Taiwanese Mandarin, Traditional)",
+  "name": "HsiaoChen",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "zh-TW-HsiaoYuNeural",
+  "gender": "F",
+  "locale": "zh_TW",
+  "locale_name": "Chinese (Taiwanese Mandarin, Traditional)",
+  "name": "HsiaoYu",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "zh-TW-YunJheNeural",
+  "gender": "M",
+  "locale": "zh_TW",
+  "locale_name": "Chinese (Taiwanese Mandarin, Traditional)",
+  "name": "YunJhe",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "zu-ZA-ThandoNeural",
+  "gender": "F",
+  "locale": "zu_ZA",
+  "locale_name": "Zulu (South Africa)",
+  "name": "Thando",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ },
+ {
+  "key": "zu-ZA-ThembaNeural",
+  "gender": "M",
+  "locale": "zu_ZA",
+  "locale_name": "Zulu (South Africa)",
+  "name": "Themba",
+  "personalities": [
+   "Friendly",
+   "Positive"
+  ],
+  "categories": [
+   "General"
+  ],
+  "multilingual": false
+ }
+]

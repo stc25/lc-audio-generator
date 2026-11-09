@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Audio Generator</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<header class="top">
+  <h1>Audio Generator</h1>
+  <div class="langbar">
+    <label>Language <select id="lang"></select></label>
+    <label>Variety / accent <select id="locale"></select></label>
+  </div>
+  <nav class="tabs" role="tablist" aria-label="Sections">
+    <button role="tab" data-tab="generate" class="on">Generate</button>
+    <button role="tab" data-tab="voices">Voices</button>
+    <button role="tab" data-tab="speak">Quick speak</button>
+    <button role="tab" data-tab="agents">For AI agents</button>
+  </nav>
+</header>
+<div id="banner" class="banner err" hidden role="alert"></div>
+<p id="langnote" class="langnote"></p>
+
+<main>
+<section id="tab-generate">
+  <div class="card">
+    <h2>1. Choose the source</h2>
+    <div class="row">
+      <label class="grow">File path on this machine
+        <input id="path" type="text" placeholder="/path/to/list.md" autocomplete="off"></label>
+      <label class="btn">Upload<input id="upload" type="file" accept=".md,.txt,.markdown" hidden></label>
+    </div>
+    <details><summary>...or paste the text</summary>
+      <label>Markdown text <textarea id="text" rows="8" placeholder="Paste an audio list or dialogues"></textarea></label>
+    </details>
+    <div class="row">
+      <label>Treat as
+        <select id="kindsel"><option value="">auto-detect</option>
+          <option value="audio-list">audio-list</option><option value="dialogues">dialogues</option></select></label>
+      <button id="inspect" class="primary">Read file</button>
+      <span id="inspectmsg" class="muted" aria-live="polite"></span>
+    </div>
+  </div>
+
+  <div id="plan" hidden></div>
+
+  <div id="jobcard" class="card" hidden>
+    <h2>Progress</h2>
+    <div class="bar"><div id="barfill"></div></div>
+    <p id="jobmsg" aria-live="polite" class="mono"></p>
+    <pre id="joblog" class="log" hidden></pre>
+    <button id="stop" class="danger">Stop</button>
+    <div id="result"></div>
+  </div>
+</section>
+
+<section id="tab-voices" hidden>
+  <div class="card">
+    <h2>Voices</h2>
+    <label>Sample text <textarea id="vtext" rows="2"></textarea></label>
+    <div class="row">
+      <label>Gender <select id="vgender"><option value="">all</option><option value="F">Female</option><option value="M">Male</option></select></label>
+      <label>Locale <select id="vlocale"></select></label>
+      <label class="grow">Search <input id="vsearch" type="search" placeholder="name or personality"></label>
+      <label>Speed <input id="vrate" type="range" min="0.5" max="1.5" step="0.05" value="1"> <output id="vrateout">1.00</output></label>
+      <button id="vrefresh">Refresh catalogue from Microsoft</button>
+    </div>
+    <p id="vmsg" class="muted" aria-live="polite"></p>
+    <div id="vpairs"></div>
+    <div id="vlist"></div>
+  </div>
+</section>
+
+<section id="tab-speak" hidden>
+  <div class="card">
+    <h2>Quick speak</h2>
+    <label>Text <textarea id="stext" rows="5"></textarea></label>
+    <div class="row">
+      <label>Voice <select id="svoice"></select></label>
+      <label>Speed <input id="srate" type="range" min="0.5" max="1.5" step="0.05" value="1"> <output id="srateout">1.00</output></label>
+    </div>
+    <div class="row">
+      <button id="spreview" class="primary">Preview</button>
+      <label class="grow">Save to file <input id="sout" type="text" placeholder="blank = default output folder"></label>
+      <button id="ssave">Save as file</button>
+    </div>
+    <p id="smsg" aria-live="polite"></p>
+    <audio id="saudio" controls hidden></audio>
+  </div>
+</section>
+
+<section id="tab-agents" hidden>
+  <div class="card prose">
+    <h2>Hand the job to an AI agent</h2>
+    <p>Give Claude Code, Codex or any agent a Markdown audio list and ask it to produce the audio.
+       The agent should read <code>README.md</code> and <code>AGENTS.md</code> in the project folder first;
+       they describe the list format and the rules.</p>
+    <h3>Core commands</h3>
+    <pre>./audiogen.sh inspect LIST.md --lang es --json
+./audiogen.sh generate LIST.md --lang es -o out/
+./audiogen.sh verify LIST.md --lang es -o out/</pre>
+    <p>Use <b>Copy CLI command</b> on the Generate tab to get the exact command for what you configured.</p>
+    <h3>HTTP API</h3>
+    <p>Base URL: <code id="apibase"></code> &middot; <a href="/api/docs" target="_blank" rel="noopener">interactive docs (/api/docs)</a></p>
+    <p>Every endpoint takes a <code>lang</code> code and either a file <code>path</code> or the Markdown <code>text</code>.
+       Typical flow: <code>POST /api/inspect</code>, then <code>POST /api/generate</code>, poll <code>GET /api/jobs/{id}</code>.</p>
+  </div>
+</section>
+</main>
+<script src="/static/app.js"></script>
+</body>
+</html>

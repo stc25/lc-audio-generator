@@ -1,0 +1,127 @@
+"""Pinyin -> Chinese characters for the CULP Mandarin course.
+
+The course is written in tone-marked pinyin, but every Mandarin TTS engine
+reads characters. Conversion is done by dictionary lookup on the course's own
+vocabulary rather than by a statistical guesser, so the result is inspectable
+and correctable: what you see here is exactly what gets spoken.
+
+PHRASES is consulted first and resolves the handful of genuine homophones
+where a single pinyin word maps to different characters depending on context
+(jiā 家/加, kuài 块/快, zuò 做/坐, wèi 喂/位, lǐ 李/里, yào 要/药).
+Anything not found in either table is reported to you rather than guessed at.
+"""
+
+# Multi-word context, matched before single words. Longest first.
+PHRASES = {
+    "lǐ nà": "李娜",
+    "wáng míng": "王明",
+    "chén yǔ": "陈宇",
+    "lín fēi": "林飞",
+    "zhāng lǎoshī": "张老师",
+    "jiànqiáo dàxué": "剑桥大学",
+    "xiāng shān": "香山",
+    "zuò dìtiě": "坐地铁",
+    "zuò shénme": "做什么",
+    "zuì kuài": "最快",
+    "jiā wēixìn": "加微信",
+    "wǒmen jiā": "我们家",
+    "nǐmen jiā": "你们家",
+    "wǒ jiā": "我家",
+    "zǒuláng lǐ": "走廊里",
+    "diànhuà lǐ": "电话里",
+    "zhǒng yào": "种药",
+    "jǐ wèi": "几位",
+    "liǎng wèi": "两位",
+    "màn man lái": "慢慢来",
+    "gōngbǎo jīdīng": "宫保鸡丁",
+    "mápó dòufu": "麻婆豆腐",
+    "dān rén fáng": "单人房",
+    "shuāng rén fáng": "双人房",
+    "hào fángjiān": "号房间",
+    "yī niánjí": "一年级",
+    "èr niánjí": "二年级",
+    "sān líng wǔ": "三零五",
+}
+
+# Words whose character depends on opening the line. "Wèi," at the start of a
+# line is the telephone "hello" (喂), not the measure word 位.
+INITIAL_WORDS = {
+    "wèi": "喂",
+}
+
+WORDS = {
+    "a": "啊", "ba": "吧", "bié": "别", "bu": "不", "bàng": "棒", "bìng": "病",
+    "bù": "不", "bú": "不", "bā": "八", "bāng": "帮", "bāshí": "八十",
+    "bēi": "杯", "běijīng": "北京", "chá": "茶", "chábēi": "茶杯",
+    "chángcháng": "常常", "chén": "陈", "chāoshì": "超市", "chī": "吃",
+    "chīfàn": "吃饭", "chūshēng": "出生", "càidān": "菜单", "cì": "次",
+    "cóng": "从", "de": "的", "diànhuà": "电话", "diànyǐng": "电影",
+    "diànzǐ": "电子", "diǎn": "点", "diǎnr": "点儿", "duì": "对",
+    "duìbùqǐ": "对不起", "duìle": "对了", "duō": "多", "duōjiǔ": "多久",
+    "duōshao": "多少", "duǎnxìn": "短信", "dà": "大", "dào": "到",
+    "dàxué": "大学", "dàyuē": "大约", "dì": "第", "dìtiě": "地铁",
+    "dòngzuò": "动作", "dòufu": "豆腐", "dān": "单", "dāngrán": "当然",
+    "dōngxi": "东西", "dōu": "都", "dǎ": "打", "dǎsuàn": "打算",
+    "fàndiàn": "饭店", "fàng": "放", "fáng": "房", "fángjiān": "房间",
+    "fángkǎ": "房卡", "fúwùyuán": "服务员", "fā": "发", "fāshāo": "发烧",
+    "fēi": "飞", "fēnzhōng": "分钟", "ge": "个", "guo": "过",
+    "guìxìng": "贵姓", "guòlái": "过来", "guó": "国", "guānxi": "关系",
+    "guānxīn": "关心", "gèng": "更", "gāo'ěrfūqiú": "高尔夫球",
+    "gāoxìng": "高兴", "gēge": "哥哥", "gěi": "给", "gōngbǎo": "宫保",
+    "gōngzuò": "工作", "gǎnjué": "感觉", "gǔdiǎn": "古典", "huài": "坏",
+    "huàn": "换", "huì": "会", "huǒchēzhàn": "火车站", "hànyǔ": "汉语",
+    "hào": "号", "hái": "还", "háishi": "还是", "hé": "和", "hāhā": "哈哈",
+    "hē": "喝", "hěn": "很", "hǎo": "好", "hǎohē": "好喝", "hǎokàn": "好看",
+    "jiànmiàn": "见面", "jiànqiáo": "剑桥", "jiànshēnfáng": "健身房",
+    "jiào": "叫", "jièshào": "介绍", "jiù": "就", "jiā": "家", "jiāo": "教",
+    "jiějie": "姐姐", "jiěmèi": "姐妹", "juéde": "觉得", "jìhuà": "计划",
+    "jīdīng": "鸡丁", "jīn": "斤", "jīngjù": "京剧", "jīnnián": "今年",
+    "jīntiān": "今天", "jǐ": "几", "kuài": "块", "kuàilè": "快乐",
+    "kàn": "看", "késou": "咳嗽", "kāfēi": "咖啡", "kāfēitīng": "咖啡厅",
+    "kāi": "开", "kāishǐ": "开始", "kěshì": "可是", "kěyǐ": "可以",
+    "kōngtiáo": "空调", "kǔ": "苦", "le": "了", "liáo": "聊",
+    "liáotiān": "聊天", "liúxíng": "流行", "liǎng": "两", "lái": "来",
+    "lìshǐ": "历史", "lí": "离", "lín": "林", "líng": "零", "lǎoshī": "老师",
+    "lǐ": "李", "lǐwù": "礼物", "lǚguǎn": "旅馆", "lǚxíng": "旅行",
+    "ma": "吗", "man": "慢", "miànbāo": "面包", "mài": "卖", "màn": "慢",
+    "mápó": "麻婆", "mèimei": "妹妹", "méi": "没", "méiyǒu": "没有",
+    "míng": "明", "míngzi": "名字", "māma": "妈妈", "měi": "每", "mǎi": "买",
+    "mǎidān": "买单", "mǎshàng": "马上", "ne": "呢", "niánjí": "年级",
+    "nà": "那", "nán": "难", "néng": "能", "nín": "您", "nǎ": "哪",
+    "nǎge": "哪个", "nǎr": "哪儿", "nǐ": "你", "nǐmen": "你们", "piàn": "片",
+    "piào": "票", "piàoliang": "漂亮", "pàiduì": "派对", "péngyou": "朋友",
+    "píngguǒ": "苹果", "qián": "钱", "qípái": "棋牌", "qù": "去", "qī": "七",
+    "qǐng": "请", "rènshi": "认识", "rén": "人", "shuākǎ": "刷卡",
+    "shuāng": "双", "shuō": "说", "shuǐguǒ": "水果", "shàng": "上",
+    "shànghǎi": "上海", "shàngkè": "上课", "shénme": "什么", "shì": "是",
+    "shí": "十", "shí'èr": "十二", "shíhou": "时候", "shítáng": "食堂",
+    "shíwǔ": "十五", "shān": "山", "shēngrì": "生日", "shīfu": "师傅",
+    "shūfu": "舒服", "suì": "岁", "sì": "四", "sìbǎi": "四百", "sìshí": "四十",
+    "sòng": "送", "sān": "三", "sānshí": "三十", "tiān": "天",
+    "tuìfáng": "退房", "tài": "太", "tèbié": "特别", "téng": "疼",
+    "tóngxué": "同学", "tóu": "头", "tā": "他", "tīng": "听",
+    "tǎolùn": "讨论", "wán": "玩", "wáng": "王", "wánr": "玩儿", "wèi": "位",
+    "wèn": "问", "wèntí": "问题", "wēixìn": "微信", "wǎngqiú": "网球",
+    "wǎnshang": "晚上", "wǒ": "我", "wǒmen": "我们", "wǔ": "五", "xià": "下",
+    "xiàng": "向", "xiànzài": "现在", "xiàwǔ": "下午", "xièxie": "谢谢",
+    "xiāng": "香", "xiāngjiāo": "香蕉", "xiōngdì": "兄弟", "xiūxi": "休息",
+    "xiǎng": "想", "xué": "学", "xuénián": "学年", "xuésheng": "学生",
+    "xuéxí": "学习", "xuéyuàn": "学院", "xìng": "姓", "xínglǐ": "行李",
+    "xīn": "新", "xīngqī": "星期", "xīngqīliù": "星期六", "xīngqīwǔ": "星期五",
+    "xūyào": "需要", "xǐhuan": "喜欢", "xǐjù": "喜剧", "yuè": "月",
+    "yuǎn": "远", "yào": "要", "yàodiàn": "药店", "yì": "一", "yìbǎi": "一百",
+    "yìdiǎnr": "一点儿", "yìqǐ": "一起", "yìsi": "意思", "yìxiē": "一些",
+    "yí": "一", "yídìng": "一定", "yígòng": "一共", "yíhéyuán": "颐和园",
+    "yíyàng": "一样", "yóuxì": "游戏", "yùdào": "遇到", "yùdìng": "预订",
+    "yùndòng": "运动", "yě": "也", "yī": "一", "yīngguó": "英国",
+    "yīnggāi": "应该", "yīngyǔ": "英语", "yīnyuè": "音乐", "yīshēng": "医生",
+    "yǐhòu": "以后", "yǒu": "有", "yǔ": "宇", "zhuānyè": "专业",
+    "zhuōzi": "桌子", "zhàopiàn": "照片", "zhè": "这", "zhèbiān": "这边",
+    "zhège": "这个", "zhèlǐ": "这里", "zhèr": "这儿", "zhù": "住",
+    "zhāng": "张", "zhēn": "真", "zhīdào": "知道", "zhōngguó": "中国",
+    "zhōngwén": "中文", "zhōumò": "周末", "zhǒng": "种", "zuì": "最",
+    "zuò": "做", "zài": "在", "zàijiàn": "再见", "zìjǐ": "自己",
+    "zěnme": "怎么", "zěnmeyàng": "怎么样", "zǎoshang": "早上", "zǒu": "走",
+    "zǒuláng": "走廊", "àihào": "爱好", "èr": "二", "èrshí": "二十",
+    "èrshíwǔ": "二十五", "èrshíyī": "二十一", "ó": "哦",
+}

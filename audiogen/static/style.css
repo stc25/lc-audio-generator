@@ -1,0 +1,52 @@
+:root{--bg:#f6f7f9;--card:#fff;--fg:#1d2329;--muted:#5f6b76;--line:#d9dee4;--accent:#2457d6;--accent-fg:#fff;
+--err:#b42318;--ok:#1a7f37;--warn:#9a6700;--chip:#e8eefc;--focus:#f5a300}
+@media (prefers-color-scheme:dark){:root{--bg:#14171b;--card:#1d2127;--fg:#e6e9ed;--muted:#9aa5b1;--line:#343b44;
+--accent:#6d9bff;--accent-fg:#0b1220;--err:#ff8a80;--ok:#5fd183;--warn:#e3b341;--chip:#27324a}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,"Noto Sans","Noto Sans Arabic","Noto Sans Hebrew","Noto Sans CJK SC",sans-serif}
+.top{background:var(--card);border-bottom:1px solid var(--line);padding:.6rem 1rem;display:flex;flex-wrap:wrap;gap:.6rem 1.5rem;align-items:center;position:sticky;top:0;z-index:5}
+h1{font-size:1.15rem;margin:0}h2{font-size:1.05rem;margin:0 0 .6rem}h3{font-size:.95rem}
+.langbar{display:flex;gap:.8rem;flex-wrap:wrap}
+.tabs{display:flex;gap:.25rem;margin-left:auto;flex-wrap:wrap}
+.tabs button{background:none;border:0;border-bottom:3px solid transparent;border-radius:0;padding:.4rem .8rem}
+.tabs button.on{border-bottom-color:var(--accent);font-weight:600}
+main{max-width:1100px;margin:0 auto;padding:0 1rem 3rem}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:1rem;margin:1rem 0}
+label{display:flex;flex-direction:column;gap:.2rem;font-size:.85rem;color:var(--muted)}
+input,select,textarea,button{font:inherit;color:var(--fg);background:var(--card);border:1px solid var(--line);border-radius:6px;padding:.35rem .6rem}
+textarea{width:100%;resize:vertical}input[type=text],input[type=search]{min-width:0}
+input[type=checkbox]{accent-color:var(--accent)}
+label.inline{flex-direction:row;align-items:center;gap:.4rem;color:var(--fg)}
+button,.btn{cursor:pointer;display:inline-block}
+.btn{border:1px solid var(--line);border-radius:6px;padding:.35rem .8rem;align-self:flex-end;color:var(--fg)}
+button:hover,.btn:hover{border-color:var(--accent)}
+button.primary{background:var(--accent);color:var(--accent-fg);border-color:var(--accent);font-weight:600}
+button.danger{color:var(--err);border-color:var(--err)}
+button:disabled{opacity:.5;cursor:default}
+:focus-visible{outline:3px solid var(--focus);outline-offset:1px}
+.row{display:flex;flex-wrap:wrap;gap:.7rem;align-items:flex-end;margin:.6rem 0}.grow{flex:1 1 220px}
+.muted{color:var(--muted)}.err,.error{color:var(--err)}.ok{color:var(--ok)}.warn{color:var(--warn)}
+.banner{padding:.6rem 1rem;margin:0;font-weight:600}.banner.err{background:var(--err);color:var(--card)}
+.langnote{max-width:1100px;margin:.5rem auto 0;padding:0 1rem;color:var(--muted)}
+.langnote.special{color:var(--warn);font-weight:600}
+.badge{display:inline-block;padding:.1rem .6rem;border-radius:999px;background:var(--accent);color:var(--accent-fg);font-weight:600;font-size:.85rem}
+.chips{display:flex;flex-wrap:wrap;gap:.4rem}
+.chip{display:inline-flex;gap:.3rem;align-items:center;background:var(--chip);border-radius:999px;padding:.1rem .7rem;color:var(--fg);font-size:.85rem}
+.stats{display:flex;gap:1.2rem;flex-wrap:wrap;margin:.5rem 0}.stats b{font-size:1.2rem;display:block}
+table{border-collapse:collapse;width:100%;font-size:.88rem}
+th,td{text-align:start;padding:.3rem .5rem;border-bottom:1px solid var(--line);vertical-align:top}
+.scroll{max-height:380px;overflow:auto;border:1px solid var(--line);border-radius:6px}
+.mono,pre,code{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.85rem}
+pre{background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:.6rem;overflow:auto;white-space:pre-wrap}
+.log{max-height:200px}
+.bar{height:14px;background:var(--line);border-radius:7px;overflow:hidden}
+#barfill{height:100%;width:0;background:var(--accent);transition:width .3s}
+.dlg{display:flex;gap:.5rem;align-items:baseline;padding:.25rem 0;border-bottom:1px solid var(--line)}
+.dlg small{color:var(--muted)}
+.voice{display:flex;flex-wrap:wrap;gap:.6rem;align-items:center;padding:.35rem 0;border-bottom:1px solid var(--line)}
+.voice .nm{flex:1 1 240px}.tag{font-size:.75rem;color:var(--muted)}
+.vgroup h3{margin:1rem 0 .2rem}
+[dir=rtl]{text-align:right}
+audio{max-width:100%;height:34px}
+.prose{max-width:760px}
+@media (max-width:640px){.tabs{margin-left:0}.row>*{flex:1 1 100%}}
